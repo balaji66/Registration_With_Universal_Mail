@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Registration With Universal Mail</string>
+    <string name="display">Display</string>
+    <string name="email_id">email id</string>
+
+    <string-array name="spinnerArray">
+        <item>Select type of mail</item>
+        <item>gmail.com</item>
+        <item>hotmail.com</item>
+        <item>yahoo.com</item>
+        <item>outlook.com</item>
+
+    </string-array>
+</resources>
